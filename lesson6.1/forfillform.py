@@ -1,4 +1,4 @@
-#Задача 1: заполнить форму
+# Задача 1: заполнить форму
 url = "https://bonigarcia.dev/selenium-webdriver-java/data-types.html"
 first_name = "Иван"
 last_name = "Петров"
@@ -10,4 +10,3 @@ city = "Москва"
 country = "Россия"
 job_position = "QA"
 company = "SkyPro"
-
